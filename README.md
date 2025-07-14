@@ -45,8 +45,16 @@
 
 ## 📞 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthick%20Raja%20T%20S-blue?style=flat-square&logo=linkedin)]
+<p align="center">
+  <!-- 🔗 LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/karthick-rajats/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Karthick%20Raja%20T%20S-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <br><br>
 
-![Karthick’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarthickRajaTS&show_icons=true&theme=radical)
+  <!-- 🧮 GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KarthickRajaTS&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
 
 ---
