@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Karthick Raja!
 
 🎓 I'm an M.Sc. Physics graduate deeply passionate about electronics and applied research.  
-🔬 Aspiring to become a Scientific Officer at BARC and contribute to cutting-edge Nuclear research and also passionate **power electronics**, **embedded systems**, and **robotics** — building my skills from ground to sky through consistent effort and hands-on learning.
+🔬 Aspiring to become a Scientific Officer at BARC and contribute to cutting-edge Nuclear research and also passionate in **power electronics**, **embedded systems**, and **robotics** — building my skills from ground to sky through consistent effort and hands-on learning.
 
 ---
 
